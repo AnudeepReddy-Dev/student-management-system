@@ -310,7 +310,7 @@ If you found this project helpful, please consider giving it a ⭐ on GitHub!
 
 <div align="center">
 
-**Made with ❤️ by [Anudeep**
+**Made with ❤️ by [Anudeep Reddy]**
 
 **© 2024 Student Management System. All rights reserved.**
 
